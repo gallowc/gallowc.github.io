@@ -1,1 +1,104 @@
-# gallowc.github.io
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fall 25-26 Final Project</title>
+	<style>
+		body {
+			background-color: lightblue;
+			color: darkblue;
+			font-family: Helvetica;
+			}
+		
+		.favorite {
+			background-color: yellow;
+			}
+			
+		li {
+			font-size: 20px;
+			}
+			
+		img {
+			height:250px;
+			}
+	</style>
+</head>
+
+<body>
+	<h1>Ms. Galloway</h1>
+	<p>Hello! I am Ms. Galloway and this is my third year as the Information Technology teacher at Bradley Tech. 
+	I like playing with my fur nephew, being involved in school, hanging out with my friends, and doing arts & crafts.
+	<br>
+	Below are some fun facts about me and a table of states I think would be cool to visit along with some things about each state.</p>
+	
+	<h3>Some Fun Facts About Me:</h3>
+	<ul>
+		<li>I have 12 tattoos.</li>
+		<li>I have been to 5 of the 7 continents.</li>
+		<li class="favorite">I was kicked my a kangaroo</li>
+		<li>My favorite color is teal.</li>
+		<li>I have been a certified scuba diver since I was 10.</li>
+	</ul>
+	<h4><em>* My favorite fun fact is highlighted yellow</em></h4>
+	
+	<br>
+	<h3>These are the TOP 5 I want to visit</h3>
+	<table border="1">
+	<!--Column Headings-->
+		<tr>
+			<th>State</th>
+			<th>State Nickname</th>
+			<th>Capital</th>
+			<th>State Bird</th>
+			<th>State Flower</th>
+			<th>State Flag</th>
+		</tr>
+	<!-- State 1-->
+		<tr>
+			<td><a href="https://www.michigan.gov/som">Michigan</a></td>
+			<td>The Wolverine State</td>
+			<td>Lansing</td>
+			<td>American Robin</td>
+			<td>Sweet Crabapple</td>
+			<td><img src="https://pixnio.com/free-images/flags-of-the-world/state-flags-of-the-united-states-of-america/state-flag-of-michigan.gif" alt="Michigan State Flag"></td>
+		<tr>
+	<!-- State 2-->
+		<tr>
+			<td><a href="https://www.mass.gov/">Massachusetts</a></td>
+			<td>The Bay State</td>
+			<td>Boston</td>
+			<td>Black-Capped Chickadee</td>
+			<td>Mayflower</td>
+			<td><img src="https://pixnio.com/free-images/flags-of-the-world/state-flags-of-the-united-states-of-america/state-flag-of-massachusetts.gif" alt="Massachusetts State Flag"></td>
+		<tr>
+	<!-- State 3-->
+		<tr>
+			<td><a href="https://www.michigan.gov/som">Louisiana</a></td>
+			<td>Wolverine State</td>
+			<td>Lansing</td>
+			<td>American Robin</td>
+			<td>Sweet Crabapple</td>
+			<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUkOPCpE0a4G8veoE3QzKz4Rboskpz2sHDg&s" alt="Louisiana State Flag"></td>
+		<tr>
+	<!-- State 4-->		
+		<tr>
+			<td><a href="https://www.tn.gov/">Tennessee</a></td>
+			<td>The Pelican State</td>
+			<td>Baton Rouge</td>
+			<td>Brown Pelican</td>
+			<td>Magnolia</td>
+			<td><img src="https://pixnio.com/free-images/flags-of-the-world/state-flags-of-the-united-states-of-america/state-flag-of-tennessee.gif" alt="Tennessee State Flag"></td>
+		<tr>
+	<!--State 5-->
+		<tr>
+			<td><a href="https://www.michigan.gov/som">Alaska</a></td>
+			<td>The Last Frontier</td>
+			<td>Juneau</td>
+			<td>Willow Ptarmigan</td>
+			<td>Alpine Forget-me-not</td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Alaska_%283-2%29.svg" alt="Alaska State Flag"></td>
+		<tr>
+	</table>
+			
+</body>
+</html>
+	
